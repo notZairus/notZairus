@@ -6,7 +6,7 @@
 🔭 I’m currently working on EduGuide+<br>🌱 I’m currently learning ExpressJS<br>💬 Ask me about Full Stack Development
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61583329889424)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61583329889424)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Zxirus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zairusvillasisbermillo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://zairus-portfolio.vercel.app)
 
