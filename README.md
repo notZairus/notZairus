@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zairus V. Bermillo</h1>
-<h3 align="center">3rd Year Computer Science Student | FUll Stack Developer</h3>
+<h3 align="center">3rd Year Computer Science Student | Full Stack Developer</h3>
 
 ---
 
@@ -41,8 +41,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notZairus&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notZairus&layout=compact&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=notZairus&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notZairus&layout=compact&theme=tokyonight" /> -->
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=notZairus)](https://github.com/notZairus/github-readme-stats)
 </p>
 
 ---
