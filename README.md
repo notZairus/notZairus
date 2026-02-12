@@ -20,7 +20,5 @@
 [![](https://visitcount.itsvg.in/api?id=notZairus&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
----
-
 ## 🌍 Connect With Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://zairus-portfolio.vercel.app)
