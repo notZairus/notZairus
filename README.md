@@ -3,7 +3,7 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on ArcHone: A Static Code Analyzer<br>🌱 I’m currently learning Saystems Design<br>💬 Ask me about Full Stack Development
+🔭 I’m currently working on ArcHone: A Static Code Analyzer<br>🌱 I’m currently learning System Designs<br>💬 Ask me about Full Stack Development
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61583329889424)
